@@ -1,0 +1,4 @@
+cp ../Programming/C++/bzcheat/bzcheat.cxx src/bzflag cp
+../Programming/C++/bzcheat/bzcheat.h src/bzflag cp
+../Programming/C++/bzcheat/bzcheat.cxx src/bzflag make all
+cp ../Programming/C++/bzcheat/bzcheat.h src/bzflag

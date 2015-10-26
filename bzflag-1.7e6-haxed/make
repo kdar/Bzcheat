@@ -1,0 +1,6 @@
+cp ../Programming/C++/bzcheat/bzcheat.cxx src/bzflag
+cp ../Programming/C++/bzcheat/bzcheat.h src/bzflag
+cp ../Programming/C++/bzcheat/glfuncs.cxx src/bzflag
+cp ../Programming/C++/bzcheat/glfuncs.h src/bzflag
+
+make all
